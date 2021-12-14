@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-十和田観光電鉄株式会社,http://www.toutetsu.co.jp/,ja,20211117,20221116,2021/11/01改正
+十和田観光電鉄株式会社,http://www.toutetsu.co.jp/,ja,20211214,20221213,2021/11/01改正

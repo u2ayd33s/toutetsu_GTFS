@@ -1210,9 +1210,6 @@ trans_id,lang,translation
 緑町（八戸）,ja-Hrkt,みどりちょう
 織笠,ja,織笠
 織笠,ja-Hrkt,おりかさ
-美土里荘,ja,美土里荘
-美土里荘,ja-Hrkt,みどりそう
-美土里荘,en,Midoriso mae
 美土里荘前,ja,美土里荘前
 美土里荘前,ja-Hrkt,みどりそうまえ
 美土里荘前,en,Midoriso mae
