@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+3420001012049,十和田観光電鉄株式会社,http://www.toutetsu.co.jp/jikoku.htm,Asia/Tokyo,ja,0176-23-3131,,
